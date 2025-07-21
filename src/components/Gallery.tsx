@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import React, { act, useState } from "react";
+import React, { useState } from "react";
 import Link from "next/link";
 import rightCaret from "../../public/chevron-right.svg";
 
